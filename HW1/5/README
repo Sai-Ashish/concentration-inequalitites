@@ -1,0 +1,28 @@
+As we can see from the plot that,
+Best possible bound for the tail probability is found by directly minimizing the mgf over lambda from chernoff bound
+
+
+///////////////////////////////////////////////////////
+Now among bennett's and hoeffdings inequality......
+
+
+///////////////////////////////////////////////////////
+COMPARISION BETWEEN HOEFFDINGS AND BENNETTS INEQUALITY
+///////////////////////////////////////////////////////
+LOW VARIANCE
+
+Bennetts inequality is the best tighter bound for low variance since it upper bounds the mgf by taking into account the variance too...
+Then comes Hoeffdings inequality as is just an upper bound on the mgf's by using hoeffdings lemma
+
+
+Thus Bennett's inequality is a tighter bound when Random Variable has low variance.
+
+////////////////////////////////////////////////////////
+HIGH VARIANCE
+
+Now, We analyse the bennett's bound for high variance which is p=0.5 ie variance is maximum for p=0.5 for bernoulli rv 
+
+From the plot we can see that hoeffdings inequality is marginally better bound than bennetts ..(both the bounds are close to each other
+with hoeffdings marginally better)
+
+/////////////////////////////////////////////////////////

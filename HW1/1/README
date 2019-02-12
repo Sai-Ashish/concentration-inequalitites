@@ -1,0 +1,14 @@
+The χ 2 -random variable is sub-exponential and it is not sub gaussian
+Now as n increases from central limit theorem the distribution tends towards Gaussian distribution N(0,2n)
+
+					where n is the degree of freedom of χ 2 -random variable  
+
+Thus as N increases the distribution tends to N(0,2n) (gaussian)
+
+Now, when N -> infinty the distribution tends to a gaussian distribution N(0,2n)
+
+And the tail probability function tends towards the tail probability function of Gaussian N(0,2n)
+
+
+But the overall catch is χ 2 -random variable is sub exponential and not sub gaussian
+ 
